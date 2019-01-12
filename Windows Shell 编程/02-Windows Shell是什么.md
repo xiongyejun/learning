@@ -117,3 +117,8 @@ Shell由许多不同的部分组成，现在我们就从最显而易见的桌面
 
 > * Shell的本质和结构
 > * 各Shell版本之间的差异
+
+## links
+   * [目录](<00-dir.md>)
+   * 上一节: [序言](<01-序言.md>)
+   * 下一节: [Windows Shell是什么](<02-Windows Shell是什么.md>)
